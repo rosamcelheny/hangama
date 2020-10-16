@@ -1,0 +1,47 @@
+title: Project
+
+columns:
+  # main
+  main:
+    width: 2/3
+    sections:
+
+      # a simple form
+      content:
+        type: fields
+        fields:
+          color:
+            type: color
+            editableAlpha: false # (optional) if set to false, alpha value controls are not displayed
+            default: "#FFFFFF"
+        # to do: don't translate color field
+          description:
+            label: Descriptions
+            type: textarea
+          year:
+            type: number
+            default: 2020
+            label: select Year
+
+        # to do: don't translate color field
+        # restrict sub-pages to only slide template
+
+  # sidebar
+  sidebar:
+    width: 1/3
+    sections:
+
+      # a list of subpages
+      pages:
+        type: pages
+        headline: Subpages
+        create: slide # new pages can only be created with the default template
+        template: # pages with theses templates are shown in the section
+          - slide
+
+
+      # a list of files
+      files:
+        type: files
+        headline: Files
+

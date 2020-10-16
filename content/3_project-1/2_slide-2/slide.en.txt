@@ -1,0 +1,17 @@
+Title: slide-2
+
+----
+
+Slide-image: 
+
+----
+
+Slide-description: slide 2
+
+----
+
+Slide-color: 
+
+----
+
+Color: #9D4C4C

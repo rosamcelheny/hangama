@@ -1,0 +1,13 @@
+Title: slide 2
+
+----
+
+Slide-image: 
+
+----
+
+Slide-description: slide 2
+
+----
+
+Color: #2F54EF

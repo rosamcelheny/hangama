@@ -1,0 +1,21 @@
+title: Bio
+preset: page
+fields:
+  bio:
+    label: Bio
+    type: textarea
+  cv_text:
+    label: CV
+    type: textarea
+  cv_pdf:
+    label: PDF
+    type: files
+  email:
+    label: email address
+    type: email
+  twitter:
+    label: Twitter
+    type: text
+  instagram:
+    label: Instagram
+    type: text

@@ -1,0 +1,13 @@
+Title: newslide
+
+----
+
+Slide-image: 
+
+----
+
+Slide-description: 
+
+----
+
+Color: #EFCB69

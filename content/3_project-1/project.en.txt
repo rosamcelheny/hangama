@@ -1,0 +1,13 @@
+Title: project-1
+
+----
+
+Color: #DA6B6B
+
+----
+
+Description: Description of project 1
+
+----
+
+Year: 2020
