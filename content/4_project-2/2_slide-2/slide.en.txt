@@ -2,11 +2,13 @@ Title: slide 2
 
 ----
 
-Slide-image: 
+Slide-image:
+
+- pony4.jpg
 
 ----
 
-Slide-description: slide 2
+Slide-description: slide 2 description
 
 ----
 
