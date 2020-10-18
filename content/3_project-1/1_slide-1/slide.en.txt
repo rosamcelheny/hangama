@@ -2,12 +2,14 @@ Title: slide-1
 
 ----
 
-Slide-image: 
+Slide-image:
+
+- pony1.jpg
 
 ----
 
-Slide-description: 
+Slide-description: Slide #1 description
 
 ----
 
-Color: #FFFFFF
+Color: #A63333
