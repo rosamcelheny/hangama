@@ -4,12 +4,12 @@ Title: slide 1
 
 Slide-image:
 
-- pony3.jpg
+- 01.jpg
 
 ----
 
-Slide-description: slide 1 description
+Slide-description: The Old Macroyan – 2020. Chiffon, cotton, suede, silk, denim, mesh-screen textile, shoelace, hanging wires, bamboo cord, printed paper image, and found fabrics, 178" x 232"
 
 ----
 
-Color: #1CBA47
+Color: #417950

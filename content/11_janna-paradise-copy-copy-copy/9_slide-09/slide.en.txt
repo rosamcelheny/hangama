@@ -1,0 +1,15 @@
+Title: slide 09
+
+----
+
+Slide-image:
+
+- 09.jpg
+
+----
+
+Slide-description: The Bride – 2017. Acrylic & oil on wood panel. 8" x 10"
+
+----
+
+Color: #A8D09C

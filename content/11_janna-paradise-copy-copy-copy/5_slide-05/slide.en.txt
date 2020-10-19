@@ -1,0 +1,15 @@
+Title: slide 05
+
+----
+
+Slide-image:
+
+- 05.jpg
+
+----
+
+Slide-description: Girl Reading – 2017. Acrylic & oil on wood panel. 10" x 8"
+
+----
+
+Color: #55DA41

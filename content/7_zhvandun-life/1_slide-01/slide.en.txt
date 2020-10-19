@@ -1,0 +1,15 @@
+Title: slide 01
+
+----
+
+Slide-image:
+
+- 01.jpg
+
+----
+
+Slide-description: Zhvandun (Life), 2019. 124’’ (h) x 146’’ (w)
+
+----
+
+Color: #9A71C8

@@ -1,0 +1,15 @@
+Title: slide 21
+
+----
+
+Slide-image:
+
+- 21.jpg
+
+----
+
+Slide-description: View from Here, Yoho National Park. 2018.Ink,acrylic & oil on woodpanel
+
+----
+
+Color: #F2E972

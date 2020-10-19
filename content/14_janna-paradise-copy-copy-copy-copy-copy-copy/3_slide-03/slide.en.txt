@@ -1,0 +1,15 @@
+Title: slide 03
+
+----
+
+Slide-image:
+
+- 03.jpg
+
+----
+
+Slide-description: Untitled #3, 2012 Oil on canvas, 42″ x 78″
+
+----
+
+Color: #484545

@@ -1,0 +1,15 @@
+Title: slide 06
+
+----
+
+Slide-image:
+
+- 06.jpg
+
+----
+
+Slide-description: The Yellow Kite – 2017. Acrylic & oil on wood panel. 10" x 8"
+
+----
+
+Color: #E5CF43

@@ -1,0 +1,15 @@
+Title: slide 04
+
+----
+
+Slide-image:
+
+- 04.jpg
+
+----
+
+Slide-description: Flew Beyond Space and Time. 2018 Ink, acrylic & oil on wood panel
+
+----
+
+Color: #FFC500

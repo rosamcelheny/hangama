@@ -1,0 +1,15 @@
+Title: slide 25
+
+----
+
+Slide-image:
+
+- 025.jpg
+
+----
+
+Slide-description: Installation #1, Banff Centre for Arts. 2017
+
+----
+
+Color: #DEDDDD

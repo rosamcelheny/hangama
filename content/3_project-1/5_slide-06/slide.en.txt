@@ -1,0 +1,15 @@
+Title: slide-05
+
+----
+
+Slide-image:
+
+- 5.jpg
+
+----
+
+Slide-description: Sahar, Nail Salon #2 – Cotton, muslin, suede, and silk – 31” x 92”
+
+----
+
+Color: #3DDEE5

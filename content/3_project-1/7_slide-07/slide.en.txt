@@ -1,0 +1,15 @@
+Title: slide-07
+
+----
+
+Slide-image:
+
+- 7.jpg
+
+----
+
+Slide-description: Madam, Mariam Beauty Salon – Cotton, chiffon, muslin, silk, suede, shoelaces, camoflauge fabric, inkjet prints on paper, marker, polyester, and found fabric – 111” x 87”
+
+----
+
+Color: #CB44C2

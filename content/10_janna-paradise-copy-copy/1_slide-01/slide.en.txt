@@ -1,0 +1,15 @@
+Title: slide 01
+
+----
+
+Slide-image:
+
+- 1.png
+
+----
+
+Slide-description: (install view) Handmade wheelbarrow, steel, earth, Afghan fabric, and fabric
+
+----
+
+Color: #3F9D4A

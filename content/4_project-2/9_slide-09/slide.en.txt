@@ -1,0 +1,15 @@
+Title: slide 09
+
+----
+
+Slide-image:
+
+- 09.jpg
+
+----
+
+Slide-description: The Old Macroyan – 2020. Chiffon, cotton, suede, silk, denim, mesh-screen textile, shoelace, hanging wires, bamboo cord, printed paper image, and found fabrics, 178" x 232"
+
+----
+
+Color: #D8D3D3

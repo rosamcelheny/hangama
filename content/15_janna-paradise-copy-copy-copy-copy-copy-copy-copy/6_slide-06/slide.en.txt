@@ -1,0 +1,15 @@
+Title: slide 06
+
+----
+
+Slide-image:
+
+- 06.jpg
+
+----
+
+Slide-description: Hope. 2011. Oil & earth on Canvas, 54″ x 84″
+
+----
+
+Color: #DAD197

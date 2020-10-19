@@ -1,0 +1,15 @@
+Title: slide 02
+
+----
+
+Slide-image:
+
+- 02.jpg
+
+----
+
+Slide-description: When I Saw You, 2019. 120’’ (h) x 72’’ (w)
+
+----
+
+Color: #D9BB33

@@ -1,0 +1,15 @@
+Title: slide-10
+
+----
+
+Slide-image:
+
+- 10.jpg
+
+----
+
+Slide-description: Vote – Cotton, chiffon, muslin, silk, suede, and handmade Afghan embroidered fabric – 41” x 84”
+
+----
+
+Color: #2C54BB

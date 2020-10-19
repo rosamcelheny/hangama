@@ -3,6 +3,6 @@
 return [
     'email' => 'rmcelheny@gmail.com',
     'language' => 'en',
-    'name' => '',
+    'name' => 'Rosa',
     'role' => 'admin'
 ];

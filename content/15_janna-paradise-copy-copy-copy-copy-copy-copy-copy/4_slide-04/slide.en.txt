@@ -1,0 +1,15 @@
+Title: slide 04
+
+----
+
+Slide-image:
+
+- 04.jpg
+
+----
+
+Slide-description: Girl under the Taliban. 2011. Acrylic & oil on canvas, 36″ x 36″
+
+----
+
+Color: #6C739A

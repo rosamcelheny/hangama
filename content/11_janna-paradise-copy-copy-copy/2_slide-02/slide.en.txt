@@ -1,0 +1,15 @@
+Title: slide 02
+
+----
+
+Slide-image:
+
+- 02.jpg
+
+----
+
+Slide-description: Women Gathering – 2017. Acrylic & oil on wood panel, 8" x 10"
+
+----
+
+Color: #FF5725
