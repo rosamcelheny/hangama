@@ -69,3 +69,33 @@ a:visited {
   left:50%;
 }
 
+/*PROJECT PAGE*/
+
+.slide-link {
+  display:inline-block;
+  padding:1em;
+}
+.thumbnail img{
+  height:150px;
+}
+.project__header {
+  margin-bottom:1em;
+}
+
+/*SLIDE PAGE*/
+
+.slide__image {
+    position: absolute;
+    top: 2em;
+    height: 100vh;
+    width: 98vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slide__image img {
+  max-height: 90%;
+  max-width:90%;
+}
+
