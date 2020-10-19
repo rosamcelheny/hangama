@@ -1,0 +1,15 @@
+Title: slide 01
+
+----
+
+Slide-image:
+
+- 01.jpg
+
+----
+
+Slide-description: Ink, acrylic, oil, silk-screen & earth on canvas, 36″ x 48″
+
+----
+
+Color: #C38F3E

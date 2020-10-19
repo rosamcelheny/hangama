@@ -1,0 +1,15 @@
+Title: slide 02
+
+----
+
+Slide-image:
+
+- 02.jpg
+
+----
+
+Slide-description: Janah #1, 2019. 14’’ (H) x 9.5’ (W) – gouache paint, brown paper, & Afghan embroidered fabric
+
+----
+
+Color: #444DCD

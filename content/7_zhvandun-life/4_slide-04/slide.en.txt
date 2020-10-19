@@ -1,0 +1,15 @@
+Title: slide 04
+
+----
+
+Slide-image:
+
+- 04.jpg
+
+----
+
+Slide-description: Love with no Attachments, 2019. 134’’ (h) x 96’’ (w)
+
+----
+
+Color: #DF8787

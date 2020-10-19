@@ -1,0 +1,15 @@
+Title: slide 05
+
+----
+
+Slide-image:
+
+- 5.png
+
+----
+
+Slide-description: (fragment) Janah #2, 2019. 14’’ (H) x 9.5’ (W) – gouache paint, brown paper, & Afghan embroidered fabric
+
+----
+
+Color: #C26FC6

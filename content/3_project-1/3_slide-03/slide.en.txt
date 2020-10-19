@@ -1,0 +1,18 @@
+Title: slide-03
+
+----
+
+Slide-image:
+
+- 3.jpg
+
+----
+
+Slide-description:
+
+MaLaLai, Tailor Shop – Cotton, chiffon, muslin, silk, suede, handmade Afghan embroidered fabric, shoelaces, acrylic paint, lace,
+gouache, marker, polyester, camouflage fabric, iridescent paper, and found fabric – 108” x 85”
+
+----
+
+Color: #E6ED54

@@ -1,0 +1,15 @@
+Title: slide 05
+
+----
+
+Slide-image:
+
+- 05.jpg
+
+----
+
+Slide-description: The Next President. 2011. Acrylic, oil, & earth on canvas, 36″ x 36″
+
+----
+
+Color: #98A5B0

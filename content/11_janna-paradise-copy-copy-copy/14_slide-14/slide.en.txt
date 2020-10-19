@@ -1,0 +1,15 @@
+Title: slide 14
+
+----
+
+Slide-image:
+
+- 14.jpg
+
+----
+
+Slide-description: The Kiss – 2017. Acrylic & oil on wood panel. 8" x 10"
+
+----
+
+Color: #4D7F49

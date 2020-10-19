@@ -1,0 +1,15 @@
+Title: slide 13
+
+----
+
+Slide-image:
+
+- 13.jpg
+
+----
+
+Slide-description: The Waterfall – 2017. Acrylic & oil on wood panel. 8" x 10"
+
+----
+
+Color: #C0E3E5

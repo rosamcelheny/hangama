@@ -1,0 +1,15 @@
+Title: slide 02
+
+----
+
+Slide-image:
+
+- 02.jpg
+
+----
+
+Slide-description: Blue Sky against a Mountain. Ink, acrylic & oil on wood panel 2ftx2ft
+
+----
+
+Color: #57B8D5

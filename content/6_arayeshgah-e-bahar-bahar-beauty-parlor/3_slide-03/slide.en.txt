@@ -1,0 +1,15 @@
+Title: slide 03
+
+----
+
+Slide-image:
+
+- 03.jpg
+
+----
+
+Slide-description: (fragment) – chiffon, cotton, suede, silk, denim, mesh-screen textile, shoelace, hanging wires, bamboo cord, printed paper image and found fabrics, 117’’ (h) x 288’’ (w)
+
+----
+
+Color: #BF8C8C

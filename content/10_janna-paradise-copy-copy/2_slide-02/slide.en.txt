@@ -1,0 +1,15 @@
+Title: slide 02
+
+----
+
+Slide-image:
+
+- 02.jpg
+
+----
+
+Slide-description: Acrylic, oil, and collaged fabric on canvas.
+
+----
+
+Color: #44B941

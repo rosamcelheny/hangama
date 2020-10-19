@@ -1,0 +1,15 @@
+Title: slide 03
+
+----
+
+Slide-image:
+
+- 3.png
+
+----
+
+Slide-description: Acrylic, oil, collaged paper, & glitter on linen
+
+----
+
+Color: #3CE347

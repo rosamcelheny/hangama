@@ -1,0 +1,18 @@
+Title: slide-01
+
+----
+
+Slide-image:
+
+- 1.jpg
+
+----
+
+Slide-description:
+
+Cotton, chiffon, muslin, silk, suede, digitally woven textile, camouflage fabric, sari textile, inkjet prints on
+paper and canvas, paper, plastic, acrylic paint, marker, polyester, table cloth, faux leather, and found fabric – 168” x 312”
+
+----
+
+Color: #A9CECE

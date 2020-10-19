@@ -1,0 +1,15 @@
+Title: slide 18
+
+----
+
+Slide-image:
+
+- 18.jpg
+
+----
+
+Slide-description: Behind the mesh-screen – 2017. Acrylic & oil on wood panel. 8" x 10"
+
+----
+
+Color: #D0327D

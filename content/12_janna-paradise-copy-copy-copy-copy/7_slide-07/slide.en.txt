@@ -1,0 +1,15 @@
+Title: slide 07
+
+----
+
+Slide-image:
+
+- 07.jpg
+
+----
+
+Slide-description: Only the Sound Remains. 2018. Ink acrylic & oil on wood panel 2ftx2ft
+
+----
+
+Color: #E1CC25

@@ -1,0 +1,15 @@
+Title: slide 03
+
+----
+
+Slide-image:
+
+- 03.jpg
+
+----
+
+Slide-description: Strangled by your Love, 2019. 110’’ (h) x 72’’ (w)
+
+----
+
+Color: #6A85AF

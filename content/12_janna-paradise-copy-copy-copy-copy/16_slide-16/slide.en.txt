@@ -1,0 +1,15 @@
+Title: slide 16
+
+----
+
+Slide-image:
+
+- 16.jpg
+
+----
+
+Slide-description: I'm a Wild Plant. 2018. Ink, acrylic & oil on wood panel 2ft x 2ft
+
+----
+
+Color: #DD673B

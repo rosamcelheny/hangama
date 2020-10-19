@@ -1,0 +1,15 @@
+Title: slide 12
+
+----
+
+Slide-image:
+
+- 12.jpg
+
+----
+
+Slide-description: Girl at the Garden – 2017. Acrylic & oil on wood panel. 8" x 10"
+
+----
+
+Color: #CA2828

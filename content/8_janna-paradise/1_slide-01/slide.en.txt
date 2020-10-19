@@ -1,0 +1,15 @@
+Title: slide 01
+
+----
+
+Slide-image:
+
+- 1.png
+
+----
+
+Slide-description: Install View – gouache paint, brown paper, & Afghan embroidered fabric
+
+----
+
+Color: #FFFD82

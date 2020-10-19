@@ -1,0 +1,15 @@
+Title: slide 03
+
+----
+
+Slide-image:
+
+- 3.png
+
+----
+
+Slide-description: When I Remember Your Love – chiffon, cotton, suede, silk, denim, mesh-screen textile, shoelace, hanging wires, bamboo cord, printed paper image and found fabrics, 178" x 232"
+
+----
+
+Color: #79A978

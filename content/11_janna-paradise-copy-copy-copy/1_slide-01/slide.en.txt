@@ -1,0 +1,15 @@
+Title: slide 01
+
+----
+
+Slide-image:
+
+- 01.jpg
+
+----
+
+Slide-description: Amidst the Mountains – 2017. Acrylic & oil on wood panel, 10" x 8"
+
+----
+
+Color: #C7A57F

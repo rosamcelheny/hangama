@@ -1,0 +1,15 @@
+Title: slide 05
+
+----
+
+Slide-image:
+
+- 05.jpg
+
+----
+
+Slide-description: Untitled #5, 2012 Oil on canvas, 42″ x 78″
+
+----
+
+Color: #B8B7B7
