@@ -2,7 +2,7 @@
 <?php snippet('nav') ?>
 
 <div class="project__header row">
-  <div class="column left">
+  <div class="column right">
     Overview <?= $page->title(); ?>
   </div>
 </div>

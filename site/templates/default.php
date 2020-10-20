@@ -2,13 +2,13 @@
 <?php snippet('nav') ?>
 
 <div class="row">
-  <div class="column left">
+  <div class="column right">
     <?php
       $projects = $pages->template("project");
       foreach($projects as $project): 
     ?>
       <div>
-        <a href="<?= $project->url() ?>" data-color="<?= $project->color() ?>" class="project-link">
+        <a href="<?= $project->children()->first()->url() ?>" data-color="<?= $project->color() ?>" class="project-link">
           <?= html($project->year()) ?>
           <?= html($project->title()) ?>
         </a>
