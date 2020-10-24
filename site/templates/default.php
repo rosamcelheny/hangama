@@ -1,8 +1,9 @@
 <?php snippet('header') ?>
-<?php snippet('nav') ?>
+<?php snippet('nav_open') ?>
+<?php snippet('nav_close') ?>
 
 <div class="row">
-  <div class="column right">
+  <div class="column col-right">
     <?php
       $projects = $pages->template("project");
       foreach($projects as $project): 

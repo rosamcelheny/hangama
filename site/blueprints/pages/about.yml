@@ -1,21 +1,28 @@
 title: Bio
-preset: page
-fields:
-  bio:
-    label: Bio
-    type: textarea
-  cv_text:
-    label: CV
-    type: textarea
-  cv_pdf:
-    label: PDF
-    type: files
-  email:
-    label: email address
-    type: email
-  twitter:
-    label: Twitter
-    type: text
-  instagram:
-    label: Instagram
-    type: text
+
+columns:
+
+  main:
+    width: 2/3
+    sections:
+
+      # a simple form
+      content:
+        type: fields
+        fields:
+          bio:
+            label: Bio
+            type: textarea
+
+ # sidebar
+  sidebar:
+    width: 1/3
+    sections:
+
+      # a list of subpages
+      pages:
+        type: pages
+        headline: Subpages
+        create: cv # new pages can only be created with the default template
+        template: # pages with theses templates are shown in the section
+          - cv

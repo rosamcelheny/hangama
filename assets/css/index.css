@@ -1,6 +1,6 @@
 body {
   font-family: courier;
-  font-size:18px;
+  font-size:24px;
 }
 
 a {
@@ -17,6 +17,10 @@ a:visited {
   color:black;
 }
 
+.active {
+  display:none;
+}
+
 .margin-horizontal {
   margin-left:1em;
   margin-right:1em;
@@ -31,13 +35,16 @@ a:visited {
 
 .menu_item {
   position:absolute;
+  display:inline-block;
 }
-
-.menu_item:first-of-type {
+.menu_item.center {
+  left:45%;
+  width:30%;
+}
+.menu_item.home {
   left:1em;
 }
-.menu_item:last-of-type {
-  position:absolute;
+.menu_item.about {
   text-align:right;
   right:1em;
 }
@@ -62,13 +69,14 @@ a:visited {
 }
 
 .right {
-  left:50%;
+  left:45%;
 }
 
 /*PROJECT PAGE*/
 .slide-link {
   display:inline-block;
-  padding:1em;
+  padding-bottom: 1em;
+    padding-right: 1em;
 }
 .thumbnail img{
   height:150px;
@@ -76,17 +84,24 @@ a:visited {
 .project__header {
   margin-bottom:1em;
 }
+.thumbnails {
+      margin-top: 3em;
+    margin-left: 1em;
+}
 
 /*SLIDE PAGE*/
+.col-right {
+  left:45%;
+}
 .slide__image {
-  position: absolute;
-  top: 2em;
-  height: 90vh;
+  height: 83vh;
   width: 98vw;
+  top: 3em;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  position: relative;
 }
 
 .slide__image img {
@@ -118,5 +133,54 @@ a:visited {
   margin:1em;
   position:fixed;
   bottom:0;
+  width: 80%;
+  left: 0;
 }
 
+.project-description,
+.bio {
+  position:relative;
+}
+
+
+/*BIO + CV*/
+.bio {
+  margin-top:3em;
+  width:initial;
+}
+
+.column {
+}
+.cv-right {
+  left:45%;
+  margin-left:3em;
+  margin-right: 1em;
+}
+
+.cv-left {
+  width:45%;
+  margin-left:1em;
+  margin-top:1em;
+  position: fixed;
+}
+
+.cv-left a {
+  display:block;
+}
+
+.download {
+  position:fixed;
+  bottom:1em;
+}
+
+.cv-right {
+  text-indent:-3em;
+}
+
+.cv-right blockquote {
+  margin-inline-start: 0em;
+}
+
+blockquote p {
+  text-indent:0;
+}

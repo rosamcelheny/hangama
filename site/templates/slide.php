@@ -1,23 +1,16 @@
 <?php snippet('header') ?>
-<?php snippet('nav') ?>
-
-<div class="project__header row">
-  <div class="column right">
+<?php snippet('nav_open') ?>
+   <div class="menu_item center">
     <span class='slide__counter'>
       <?= $slide_num ?> / <?= $total_slides ?>
     </span>
     <?= $project->title() ?>
   </div>
-</div>
+<?php snippet('nav_close') ?>
 
 <div class="slide__image">
   <?php if($image = $page->image()): ?>
     <img src="<?= $image->url() ?>" alt="">
-  <?php endif ?>
-  <?php if($page->slide_description()): ?>
-    <div class="description">
-      <?= html($page->slide_description()) ?>
-    </div>
   <?php endif ?>
 
   <?php if ($page->hasPrevListed()): ?>
@@ -40,5 +33,11 @@
     </a>
   <?php endif ?>
 </div>
+
+<?php if($page->slide_description()): ?>
+  <div class="description">
+    <?= html($page->slide_description()) ?>
+  </div>
+<?php endif ?>
 
 <?php snippet('footer') ?>

@@ -1,0 +1,59 @@
+Title: cv
+
+----
+
+Cv-text:
+
+> Education
+
+2020 M.F.A Yale School of Art, New Haven, CT
+
+2012 B.F.A Nova Scotia College of Art and Design  University, Halifax, NS 
+
+2005 B.F.A Olimov College of Art, Dushanbe, Tajikistan
+
+> Research Experience
+
+2015 Post-Graduate Fellow(PGF), Yale University School of Art & Sciences,New Haven, CT 
+
+> Solo Exhibitions
+
+2018 Ocean’s Edge, Laurie Swim Gallery, Lunenburg NS
+
+2017 We Rise Again: Portraits of Afghan Women, Lunenburg School of the Arts, NS
+
+> Education
+
+2020 M.F.A Yale School of Art, New Haven, CT
+
+2012 B.F.A Nova Scotia College of Art and Design  University, Halifax, NS 
+
+2005 B.F.A Olimov College of Art, Dushanbe, Tajikistan
+
+> Research Experience
+
+2015 Post-Graduate Fellow(PGF), Yale University School of Art & Sciences,New Haven, CT 
+
+> Solo Exhibitions
+
+2018 Ocean’s Edge, Laurie Swim Gallery, Lunenburg NS
+
+2017 We Rise Again: Portraits of Afghan Women, Lunenburg School of the Arts, NS
+
+----
+
+Cv-pdf:
+
+- dummy.pdf
+
+----
+
+Email: hello@hangama.com
+
+----
+
+Twitter: twitter
+
+----
+
+Instagram: insta
