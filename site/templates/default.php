@@ -8,7 +8,7 @@
       $projects = $pages->template("project");
       foreach($projects as $project): 
     ?>
-      <div>
+      <div class="project--title">
         <a href="<?= $project->children()->first()->url() ?>" data-color="<?= $project->color() ?>" class="project-link">
           <?= html($project->year()) ?>
           <?= html($project->title()) ?>
