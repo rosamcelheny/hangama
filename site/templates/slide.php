@@ -2,9 +2,17 @@
 <?php snippet('nav_open') ?>
    <div class="menu_item center">
     <span class='slide__counter'>
-      <?= $slide_num ?> / <?= $total_slides ?>
+      <a href="<?= $url_previous ?>">
+        <?= $slide_num ?>
+      </a>
+       / 
+      <a href="<?= $url_next ?>">
+        <?= $total_slides ?>
+      </a>
     </span>
-    <?= $project->title() ?>
+    <a href="<?= $project->url() ?>" >
+      <?= $project->title() ?>
+    </a>
   </div>
 <?php snippet('nav_close') ?>
 
@@ -12,26 +20,13 @@
   <?php if($image = $page->image()): ?>
     <img src="<?= $image->url() ?>" alt="">
   <?php endif ?>
+  <a href="<?= $url_previous ?>">
+    <div class="page left"></div>
+  </a>
 
-  <?php if ($page->hasPrevListed()): ?>
-    <a href="<?= $page->prevListed()->url() ?>">
-      <div class="page left"></div>
-    </a>
-  <?php else: ?>
-    <a href="<?= $page->parent()->url() ?>">
-      <div class="page left"></div>
-    </a>
-  <?php endif ?>
-
-  <?php if ($page->hasNextListed()): ?>
-    <a href="<?= $page->nextListed()->url() ?>">
-      <div class="page right"></div>
-    </a>
-  <?php else: ?>
-    <a href="<?= $page->parent()->url() ?>">
-      <div class="page right"></div>
-    </a>
-  <?php endif ?>
+  <a href="<?= $url_next ?>">
+    <div class="page right"></div>
+  </a>
 </div>
 
 <?php if($page->slide_description()): ?>
