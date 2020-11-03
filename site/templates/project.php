@@ -9,7 +9,7 @@
   <?php foreach($page->children() as $slide): ?>
     <a href="<?= $slide->url() ?>" data-color="<?= $slide->color() ?>" class="slide-link">
       <div class="thumbnail">
-        <?php if($image = $slide->image()): ?>
+        <?php if($image = $slide->image()->resize(300)): ?>
           <!-- TO DO: Get thumbnails working here, not full-size images -->
           <img src="<?= $image->url() ?>" alt="">
         <?php endif ?>
