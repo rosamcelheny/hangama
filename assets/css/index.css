@@ -40,7 +40,7 @@ a:visited {
 }
 .menu_item.center {
   left:45%;
-  width:30%;
+  width:45%;
 }
 .menu_item.home {
   left:1em;
@@ -92,8 +92,9 @@ a:visited {
   margin-bottom:1em;
 }
 .thumbnails {
-  margin-top: 3em;
+  margin-top: 5em;
   margin-left: 1em;
+  margin-bottom: 1em;
 }
 
 /*SLIDE PAGE*/
@@ -131,7 +132,6 @@ a:visited {
 
 .left {
   left: 0;
-  /*cursor: w-resize;*/
   cursor: url('../images/arrow_left.png'), auto; 
 }
 
@@ -142,44 +142,64 @@ a:visited {
 
 .description {
   margin:1em;
-  position:fixed;
-  bottom:0;
-  width: 80%;
-  left: 0;
+  /*position:fixed;*/
+  /*bottom:0;*/
+  /*width: 80%;*/
+  /*left: 0;*/
+  width: calc(100% - 2em);
+}
+
+.project-wrapper {
+  /*width: 45%;*/
+  /*margin-left: 1em;*/
+  margin-top: 3em;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: calc(100vh - 4em);
+  /*
+  position:fixed;*/
 }
 
 /*BIO + CV*/
+body.About {
+  /*overflow:hidden;*/
+  height:100%;
+  margin:0;
+}
+
 .bio {
   width:initial;
-  padding-right: 3em;
+  padding-right: 1em;
   margin-bottom: 1em;
 }
 
 .about-container {
-  display: flex;
-  flex-direction: row;
-  flex-wrap:nowrap;
+  height:100%;
 }
 
 .cv-left,
 .cv-right {
-
+  
 }
 
 .cv-right {
   left:45%;
-  margin-left:3em;
+  margin-left: 4em;
   margin-right: 1em;
+  position:absolute;
 }
 
 .cv-left {
-  width:45%;
-  margin-left:1em;
+  width: 45%;
+  margin-left: 1em;
   margin-top: 3em;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   height: calc(100vh - 4em);
+  
+  position:fixed;
 }
 
 .cv-left a {
@@ -187,8 +207,6 @@ a:visited {
 }
 
 .download {
-  /*position:fixed;*/
-  /*bottom:1em;*/
 }
 
 .cv-right {
@@ -208,9 +226,6 @@ blockquote p {
   .menu_item.center {
     left:1em;
     margin-top:2em;
-    width: calc(100% - 2em);
-  }
-  .project-description {
     width: calc(100% - 2em);
   }
   .thumbnails {
@@ -238,12 +253,15 @@ blockquote p {
   }
   .cv-left,
   .cv-right {
-    width:100%;
+    position:relative;
   }
   .cv-right {
     margin-left: 4em;
+
+    left:initial;
   }
   .cv-left {
     height:initial;
+    width: calc(100% - 2em);
   }
 }

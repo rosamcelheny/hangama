@@ -9,4 +9,4 @@
       echo css('assets/css/index.css');
     ?>
 </head>
-<body>
+<body class="<?= $page->title() ?>">
