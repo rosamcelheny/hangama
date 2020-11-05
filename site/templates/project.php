@@ -4,10 +4,11 @@
     Overview <?= $page->title(); ?>
   </div>
 <?php snippet('nav_close') ?>
+
 <div class="project-wrapper">
   <div class="thumbnails">
     <?php foreach($page->children() as $slide): ?>
-      <a href="<?= $slide->url() ?>" data-color="<?= $slide->color() ?>" class="slide-link">
+      <a href="<?= $slide->url() ?>" data-color="<?= $slide->color() ?>" data-number="<?= $slide->num() ?>"class="slide-link">
         <div class="thumbnail">
           <?php if($image = $slide->image()->resize(300)): ?>
             <img src="<?= $image->url() ?>" alt="">
@@ -21,9 +22,15 @@
   </div>
 
   <?php if($page->description()): ?>
-    <div class="description">
+    <div class="description project-description">
       <?= html($page->description()) ?>
     </div>
+    <?php foreach($page->children() as $slide): ?>
+       <div class="description slide-description">
+          <?= $slide->slide_description() ?>
+        </div>
+    <?php endforeach ?>
   <?php endif ?>
 </div>
+
 <?php snippet('footer') ?>

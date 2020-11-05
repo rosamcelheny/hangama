@@ -79,6 +79,7 @@ a:visited {
   text-indent: -3em;
   padding-left: 3em;
 }
+
 /*PROJECT PAGE*/
 .slide-link {
   display:inline-block;
@@ -95,6 +96,16 @@ a:visited {
   margin-top: 5em;
   margin-left: 1em;
   margin-bottom: 1em;
+}
+.project-wrapper {
+  margin-top: 3em;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: calc(100vh - 3em);
+}
+.slide-description {
+  display:none;
 }
 
 /*SLIDE PAGE*/
@@ -113,14 +124,12 @@ a:visited {
   flex-direction: column;
   position: relative;
 }
-
 .slide__image img {
   object-fit: contain;
   height: 90%;
   width: 100%;
   display:block;
 }
-
 .page {
   height:100%;
   position: absolute;
@@ -129,41 +138,21 @@ a:visited {
 .left, .right {
   width:50%;
 }
-
 .left {
   left: 0;
   cursor: url('../images/arrow_left.png'), auto; 
 }
-
 .page.right {
   left:50%;
   cursor: url('../images/arrow_right.png'), auto;
 }
-
 .description {
   margin:1em;
-  /*position:fixed;*/
-  /*bottom:0;*/
-  /*width: 80%;*/
-  /*left: 0;*/
   width: calc(100% - 2em);
-}
-
-.project-wrapper {
-  /*width: 45%;*/
-  /*margin-left: 1em;*/
-  margin-top: 3em;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  min-height: calc(100vh - 4em);
-  /*
-  position:fixed;*/
 }
 
 /*BIO + CV*/
 body.About {
-  /*overflow:hidden;*/
   height:100%;
   margin:0;
 }
