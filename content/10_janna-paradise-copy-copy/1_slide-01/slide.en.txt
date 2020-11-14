@@ -8,8 +8,8 @@ Slide-image:
 
 ----
 
-Slide-description: (install view) Handmade wheelbarrow, steel, earth, Afghan fabric, and fabric
+Slide-description: Installation View – handmade wheelbarrow, steel, earth, and Afghan fabric.
 
 ----
 
-Color: #3F9D4A
+Color: #9D7760

@@ -8,8 +8,8 @@ Slide-image:
 
 ----
 
-Slide-description: Sahar, Nail Salon #1 – Cotton, chiffon, muslin, silk, suede, paper, clear plastic, inkjet prints on paper, marker, polyester, and found fabric – 111” x 152.5”
+Slide-description: Sahar, Nail Salon #1 – cotton, chiffon, muslin, silk, suede, paper, clear plastic, inkjet prints on paper, marker, polyester, and found fabric – 111" x 152.5"
 
 ----
 
-Color: #BE9E7E
+Color: #DEC6B1

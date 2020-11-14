@@ -8,11 +8,8 @@ Slide-image:
 
 ----
 
-Slide-description:
-
-MaLaLai, Tailor Shop – Cotton, chiffon, muslin, silk, suede, handmade Afghan embroidered fabric, shoelaces, acrylic paint, lace,
-gouache, marker, polyester, camouflage fabric, iridescent paper, and found fabric – 108” x 85”
+Slide-description: Malalai, Tailor Shop – cotton, chiffon, muslin, silk, suede, handmade Afghan embroidered fabric, shoelaces, acrylic paint, lace, gouache, marker, polyester, camouflage fabric, iridescent paper, and found fabric – 108" x 85"
 
 ----
 
-Color: #E6ED54
+Color: #E2E76D

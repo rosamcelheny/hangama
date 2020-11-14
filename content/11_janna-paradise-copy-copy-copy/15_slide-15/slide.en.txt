@@ -6,8 +6,8 @@ Slide-image:
 
 ----
 
-Slide-description: 
+Slide-description: Watching Sunset – acrylic, and oil on wood panel – 10" x 8".
 
 ----
 
-Color: #FFFFFF
+Color: #DD6868

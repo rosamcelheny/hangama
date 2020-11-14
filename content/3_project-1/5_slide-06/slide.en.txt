@@ -8,8 +8,8 @@ Slide-image:
 
 ----
 
-Slide-description: Sahar, Nail Salon #2 – Cotton, muslin, suede, and silk – 31” x 92”
+Slide-description: Sahar, Nail Salon #2 – cotton, muslin, suede, and silk – 31" x 92"
 
 ----
 
-Color: #3DDEE5
+Color: #97E4E7

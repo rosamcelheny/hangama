@@ -1,0 +1,15 @@
+Title: slide 03
+
+----
+
+Slide-image:
+
+- 03.jpg
+
+----
+
+Slide-description: An Echo, Lake Agnes – ink,  acrylic, and oil on wood panel – 24" x 24".
+
+----
+
+Color: #D0B7B7

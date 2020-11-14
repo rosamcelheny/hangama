@@ -1,0 +1,15 @@
+Title: slide 17
+
+----
+
+Slide-image:
+
+- 17.jpg
+
+----
+
+Slide-description: The Fall Arches, Peyota Lake – ink, acrylic, and oil on wood panel – 24" x 24".
+
+----
+
+Color: #BF9CC6

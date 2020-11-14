@@ -2,8 +2,21 @@
 <?php snippet('nav_open') ?>
 <?php snippet('nav_close') ?>
 
-<div class="row">
-  <div class="column col-right">
+<div class="homepage-wrapper">
+  <div class="slide__image">
+  <!-- <div class="hp-image"> -->
+    <?php if($image = $page->image()->resize(1500)): ?>
+      <img src="<?= $image->url() ?>" alt="">
+    <?php endif ?>
+  </div>
+
+
+  <div class="hp-left">
+    <?php if($caption = $page->caption()): ?>
+      <?= $page->caption()->kirbytext() ?>
+    <?php endif ?>
+  </div>
+  <div class="column col-right hp-right">
     <?php
       $projects = $pages->template("project");
       foreach($projects as $project): 
@@ -16,5 +29,7 @@
       </div>
     <?php endforeach ?>
   </div>
+
 </div>
+
 <?php snippet('footer') ?>

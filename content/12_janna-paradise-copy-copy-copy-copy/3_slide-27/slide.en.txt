@@ -1,0 +1,15 @@
+Title: slide 27
+
+----
+
+Slide-image:
+
+- 26.jpg
+
+----
+
+Slide-description: Installation View – Banff Centre for Arts, Canada. 2017.
+
+----
+
+Color: #D0BBBB

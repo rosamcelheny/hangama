@@ -8,11 +8,8 @@ Slide-image:
 
 ----
 
-Slide-description:
-
-Cotton, chiffon, muslin, silk, suede, digitally woven textile, camouflage fabric, sari textile, inkjet prints on
-paper and canvas, paper, plastic, acrylic paint, marker, polyester, table cloth, faux leather, and found fabric – 168” x 312”
+Slide-description: Bazaar – cotton, chiffon, muslin, silk, suede, digitally woven textile, camouflage fabric, sari textile, inkjet prints on paper and canvas, paper, plastic, acrylic paint, marker, polyester, table cloth, faux leather, and found fabric – 168" x 312"
 
 ----
 
-Color: #A9CECE
+Color: #A3E3E3

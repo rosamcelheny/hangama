@@ -8,8 +8,8 @@ Slide-image:
 
 ----
 
-Slide-description: Acrylic, oil, collaged paper, & glitter on linen
+Slide-description: Installation View – acrylic, oil, collaged paper, and glitter on linen.
 
 ----
 
-Color: #3CE347
+Color: #67DD49

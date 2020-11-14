@@ -1,0 +1,15 @@
+Title: slide 01
+
+----
+
+Slide-image:
+
+- 01.jpg
+
+----
+
+Slide-description: At the Base of the Mountain – ink,  acrylic, and oil on wood panel – 24" x 24".
+
+----
+
+Color: #E1D8D8

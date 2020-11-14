@@ -1,5 +1,5 @@
 $( document ).ready(function(){
-    background_hover();
+    // background_hover();
     slide_hover();
 })
 

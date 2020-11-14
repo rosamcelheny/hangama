@@ -6,8 +6,8 @@ Slide-image:
 
 ----
 
-Slide-description: 
+Slide-description: Untitled #1 – oil on canvas – 42" x 78"
 
 ----
 
-Color: #FFFFFF
+Color: #72BBDA

@@ -1,8 +1,11 @@
 title: Default Page
 preset: page
 fields:
-  text:
-    label: Text
+  caption:
+    label: Homepage caption
     type: textarea
-    size: large
+    size: medium
+  bg_image:
+    label: Homepage image
+    type: files
 

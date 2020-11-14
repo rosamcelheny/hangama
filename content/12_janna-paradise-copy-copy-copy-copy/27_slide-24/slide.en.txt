@@ -1,0 +1,15 @@
+Title: slide 24
+
+----
+
+Slide-image:
+
+- 24.jpg
+
+----
+
+Slide-description: The Full Moonlight – ink, acrylic, and oil on wood panel – 24" x 24".
+
+----
+
+Color: #5F6DDB

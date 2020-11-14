@@ -1,0 +1,15 @@
+Title: slide 19
+
+----
+
+Slide-image:
+
+- 19.jpg
+
+----
+
+Slide-description: En route to Jasper National Park #1 – ink, acrylic, and oil on wood panel – 24" x 24".
+
+----
+
+Color: #489945
