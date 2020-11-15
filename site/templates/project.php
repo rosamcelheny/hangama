@@ -10,7 +10,7 @@
     <?php foreach($page->children() as $slide): ?>
       <a href="<?= $slide->url() ?>" data-color="<?= $slide->color() ?>" data-number="<?= $slide->num() ?>"class="slide-link">
         <div class="thumbnail">
-          <?php if($image = $slide->image()->resize(300)): ?>
+          <?php if($image = $slide->slide_image()->toFile()->resize(300)): ?>
             <img src="<?= $image->url() ?>" alt="">
           <?php endif ?>
         </div>

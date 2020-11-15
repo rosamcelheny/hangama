@@ -10,4 +10,8 @@ fields:
     type: color
     editableAlpha: false # (optional) if set to false, alpha value controls are not displayed
     default: "#FFFFFF"
+  # a list of files
+  files:
+    type: files
+    headline: Files
 # to do: don't translate color field

@@ -10,11 +10,21 @@
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="theme-color" content="#ffffff">
 
-
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
   <?php
     echo css('assets/css/normalize.css');
     echo css('assets/css/index.css');
   ?>
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-CNH76L32Q5"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-CNH76L32Q5');
+  </script>
 </head>
 <body class="<?= $page->title() ?>">

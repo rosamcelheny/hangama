@@ -18,14 +18,14 @@
 
 <div class="project-wrapper">
   <div class="slide__image">
-    <?php if($image = $page->image()): ?>
+    <?php if($image = $page->slide_image()->toFile()->resize(1500)): ?>
       <img src="<?= $image->url() ?>" alt="">
     <?php endif ?>
-    <a href="<?= $url_previous ?>">
+    <a class="previous" href="<?= $url_previous ?>">
       <div class="page left"></div>
     </a>
 
-    <a href="<?= $url_next ?>">
+    <a class="next" href="<?= $url_next ?>">
       <div class="page right"></div>
     </a>
   </div>

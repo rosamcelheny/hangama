@@ -8,8 +8,8 @@ Slide-image:
 
 ----
 
-Slide-description: The Next President. 2011. Acrylic, oil, & earth on canvas, 36″ x 36″
+Slide-description: The Next President – acrylic, oil,  and earth on canvas – 36" x 36"
 
 ----
 
-Color: #98A5B0
+Color: #A4B2BF

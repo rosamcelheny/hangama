@@ -19,11 +19,12 @@
     </div>
     <a href="<?= $page->file()->url() ?>" target="blank" class="download">Download</a>
   </div>
-  <?php if($page->cv_text()): ?>
-    <div class="cv-right">
-      <?= $page->cv_text()->kirbytext() ?>
+  <div class="cv-right">
+    <?= $page->cv_text()->kirbytext() ?>
+    <div class='credit'>
+      Website designed by <a href="https://orysiazabeida.com/" target="_blank">Orysia Zabeida</a>. Programmed by <a href="https://rosamcelheny.com/" target="_blank">Rosa McElheny</a>.
     </div>
-  <?php endif ?>
+  </div>
 </div>
 
 <?php snippet('footer') ?>

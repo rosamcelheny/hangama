@@ -3,11 +3,13 @@
 <?php snippet('nav_close') ?>
 
 <div class="homepage-wrapper">
-  <div class="slide__image">
-  <!-- <div class="hp-image"> -->
-    <?php if($image = $page->image()->resize(1500)): ?>
+  <div class="project-wrapper">
+    <div class="slide__image">
+    <!-- <div class="hp-image"> -->
+    <?php if($image = $page->bg_image()->toFile()->resize(1500)): ?>
       <img src="<?= $image->url() ?>" alt="">
     <?php endif ?>
+    </div>
   </div>
 
 
