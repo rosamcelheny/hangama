@@ -1,9 +1,8 @@
 <?php snippet('header') ?>
-<?php snippet('nav_open') ?>
-   <div class="menu_item center">
-    Overview <?= $page->title(); ?>
-  </div>
-<?php snippet('nav_close') ?>
+<?php snippet('nav') ?>
+<div class="slide-title">
+  Overview <?= $page->title(); ?>
+</div>
 
 <div class="project-wrapper">
   <div class="thumbnails">

@@ -4,25 +4,9 @@ Title: Home
 
 Caption:
 
-––––––––––––––––
-Current Exhibition  
-(link: http://www.t293.it/exhibitions/hangama-amiri/ text: Bazaar, A Recollection of Home target: _blank) 
-(link: http://www.t293.it/ text: T291 Gallery target: _blank)
-November 21st to January 22nd, 2021
-Rome (IT)
-––––––––––––––––
-Upcoming Exhibition
-Love/Desire/intimacy 
-(link: http://www.towards.info/?s=platform text: Towards Gallery target: _blank)
-February 1st to May 31st, 2021
-Toronto (CA)
-––––––––––––––––
-Upcoming Exhibition
-Homeland 
-(link: http://www.albertzbenda.com/ text: Albertz Benda target: _blank)
-April 1st to June 21st, 2021
-New York (US)
-––––––––––––––––
+Current Exhibition: (link: http://www.t293.it/exhibitions/hangama-amiri/ text: Bazaar, A Recollection of Home target: _blank) (link: http://www.t293.it/ text: T291 Gallery target: _blank) November 21st to January 22nd, 2021 Rome (IT)
+Upcoming Exhibition: Love/Desire/intimacy (link: http://www.towards.info/?s=platform text: Towards Gallery target: _blank) February 1st to May 31st, 2021 Toronto (CA)
+Upcoming Exhibition: Homeland (link: http://www.albertzbenda.com/ text: Albertz Benda target: _blank) April 1st to June 21st, 2021 New York (US)
 
 ----
 

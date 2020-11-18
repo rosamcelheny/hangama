@@ -1,20 +1,19 @@
 <?php snippet('header') ?>
-<?php snippet('nav_open') ?>
-   <div class="menu_item center">
-    <span class='slide__counter'>
-      <a href="<?= $url_previous ?>">
-        <?= $slide_num ?>
-      </a>
-       / 
-      <a href="<?= $url_next ?>">
-        <?= $total_slides ?>
-      </a>
-    </span>
-    <a href="<?= $project->url() ?>" >
-      <?= $project->title() ?>
+<?php snippet('nav') ?>
+<div class="slide-title">
+  <span class='slide__counter'>
+    <a href="<?= $url_previous ?>">
+      <?= $slide_num ?>
     </a>
-  </div>
-<?php snippet('nav_close') ?>
+     / 
+    <a href="<?= $url_next ?>">
+      <?= $total_slides ?>
+    </a>
+  </span>
+  <a href="<?= $project->url() ?>" >
+    <?= $project->title() ?>
+  </a>
+</div>
 
 <div class="project-wrapper">
   <div class="slide__image">

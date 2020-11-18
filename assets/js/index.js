@@ -1,8 +1,13 @@
 $( document ).ready(function(){
     // background_hover();
+    // project_hover();
     slide_hover();
     
+    $('.work').click(function(){
+        $('.project-list').toggle();
+    })
 
+    // swipe right / left to advance slide
     document.addEventListener('touchstart', handleTouchStart, false);        
     document.addEventListener('touchmove', handleTouchMove, false);
 
@@ -62,6 +67,17 @@ function background_hover() {
         $('body').css('background-color', 'white');
     });
 }
+
+// function project_hover() {
+//     $('.project-title').mouseenter(function(){
+//         var color = $(this > ".project-link").attr("data-color");
+//         console.log(color);
+//         $(this).css('background-color', color);
+//     });
+//     $('.project-link').mouseleave(function(){
+//         $(this).css('background-color', 'white');
+//     });
+// }
 
 function slide_hover() {
     $('.slide-link').mouseenter(function(){
