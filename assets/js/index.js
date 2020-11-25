@@ -1,11 +1,30 @@
 $( document ).ready(function(){
     // background_hover();
-    // project_hover();
+    project_hover();
     slide_hover();
     
+    // on mobile, show/hide menu on click
     $('.work').click(function(){
         $('.project-list').toggle();
-    })
+    });
+
+    (() => {
+      'use strict';
+      // Page is loaded
+      const objects = document.getElementsByClassName('asyncImage');
+      Array.from(objects).map((item) => {
+        // Start loading image
+        const img = new Image();
+        img.src = item.dataset.src;
+        // Once image is loaded replace the src of the HTML element
+        img.onload = () => {
+          item.classList.remove('asyncImage');
+          return item.nodeName === 'IMG' ? 
+            item.src = item.dataset.src :        
+            item.style.backgroundImage = `url(${item.dataset.src})`;
+        };
+      });
+    })();
 
     // swipe right / left to advance slide
     document.addEventListener('touchstart', handleTouchStart, false);        
@@ -57,27 +76,16 @@ $( document ).ready(function(){
     };
 })
 
-function background_hover() {
-    $('.project-link').mouseenter(function(){
-        var color = $(this).attr("data-color");
-        console.log(color);
-        $('body').css('background-color', color);
+function project_hover() {
+    $('.project--title').mouseenter(function(){
+        var link = $(this).find(".project-link");
+        var color = link.attr("data-color");
+        $(this).css('background-color', color);
     });
-    $('.project-link').mouseleave(function(){
-        $('body').css('background-color', 'white');
+    $('.project--title').mouseleave(function(){
+        $(this).css('background-color', 'white');
     });
 }
-
-// function project_hover() {
-//     $('.project-title').mouseenter(function(){
-//         var color = $(this > ".project-link").attr("data-color");
-//         console.log(color);
-//         $(this).css('background-color', color);
-//     });
-//     $('.project-link').mouseleave(function(){
-//         $(this).css('background-color', 'white');
-//     });
-// }
 
 function slide_hover() {
     $('.slide-link').mouseenter(function(){
@@ -85,14 +93,10 @@ function slide_hover() {
         $(this).find(".thumbnail").css('background-color', color);
         $(this).find("img").css('opacity', '0');
         var index = $(this).attr("data-number") - 1;
-        $(".slide-description").eq(index).show();
-        $('.project-description').hide();
     });
     $('.slide-link').mouseleave(function(){
         $(this).find(".thumbnail").css('background-color', 'initial');
         $(this).find("img").css('opacity', '1');
-        $(".slide-description").hide();
-        $('.project-description').show();
     });
 }
 

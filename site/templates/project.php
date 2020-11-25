@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 <?php snippet('nav') ?>
 <div class="slide-title">
-  Overview <?= $page->title(); ?>
+  Overview: <?= $page->title(); ?>
 </div>
 
 <div class="project-wrapper">
