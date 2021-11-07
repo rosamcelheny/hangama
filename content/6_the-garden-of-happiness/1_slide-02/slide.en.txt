@@ -1,0 +1,19 @@
+Title: slide 02
+
+----
+
+Slide-image:
+
+- 02.jpg
+
+----
+
+Slide-description: The Garden of Happiness. 2019 – gouache paint, brown paper, and Afghan embroidered fabric.
+
+----
+
+Color: #9FA882
+
+----
+
+Files: 

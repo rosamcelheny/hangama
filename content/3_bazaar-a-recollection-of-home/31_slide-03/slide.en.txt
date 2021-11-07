@@ -1,0 +1,19 @@
+Title: slide-03
+
+----
+
+Slide-image:
+
+- 3.jpg
+
+----
+
+Slide-description: Malalai, Tailor Shop. 2020 – cotton, chiffon, muslin, silk, suede, handmade Afghan embroidered fabric, shoelaces, acrylic paint, lace, gouache, marker, polyester, camouflage fabric, iridescent paper, and found fabric – 108" x 85"
+
+----
+
+Color: #E2E76D
+
+----
+
+Files: 

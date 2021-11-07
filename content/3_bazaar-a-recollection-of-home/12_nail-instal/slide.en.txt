@@ -1,0 +1,21 @@
+Title: nail-instal
+
+----
+
+Slide-image:
+
+- t293_hangamaamiri25.jpg
+
+----
+
+Slide-description: Installation view, Bazaar, A Recollection of Home, T293 Gallery (Rome, IT)
+
+----
+
+Color: #E8F7A5
+
+----
+
+Files:
+
+- t293_hangamaamiri25.jpg

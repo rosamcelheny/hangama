@@ -8,8 +8,12 @@ Slide-image:
 
 ----
 
-Slide-description: The Old Macroyan – 2020. chiffon, cotton, suede, silk, denim, mesh-screen textile, shoelace, hanging wires, bamboo cord, printed paper image, and found fabrics, 178" x 232"
+Slide-description: The Old Macroyan (detail). 2020 – chiffon, cotton, suede, silk, denim, mesh-screen textile, shoelace, hanging wires, bamboo cord, printed paper image, and found fabrics
 
 ----
 
 Color: #C4BCBC
+
+----
+
+Files: 

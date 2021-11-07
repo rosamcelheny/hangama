@@ -1,0 +1,19 @@
+Title: slide 23
+
+----
+
+Slide-image:
+
+- 23_n.jpg
+
+----
+
+Slide-description: A Starry Night at Iceline Trail – ink, acrylic, and oil on wood panel – 24" x 24".
+
+----
+
+Color: #9D5296
+
+----
+
+Files: 

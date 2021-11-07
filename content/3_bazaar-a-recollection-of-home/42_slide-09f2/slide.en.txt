@@ -1,0 +1,21 @@
+Title: slide-09f2
+
+----
+
+Slide-image:
+
+- ha-32.jpg
+
+----
+
+Slide-description: The National Championship Team of Afghanistan (detail). 2020 – cotton, chiffon, muslin, suede, and faux leather – 60" x 85"
+
+----
+
+Color: #4E9880
+
+----
+
+Files:
+
+- ha-32.jpg

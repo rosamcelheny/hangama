@@ -1,0 +1,21 @@
+Title: perspective
+
+----
+
+Slide-image:
+
+- t293_hangamaamiri14.jpg
+
+----
+
+Slide-description: Installation view, Bazaar, A Recollection of Home, T293 Gallery (Rome, IT)
+
+----
+
+Color: #41685C
+
+----
+
+Files:
+
+- t293_hangamaamiri14.jpg

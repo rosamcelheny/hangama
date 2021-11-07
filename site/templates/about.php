@@ -14,7 +14,9 @@
       <a href="mailto:<?= html($page->email()) ?>">Email</a>
       <a href="<?= html($page->twitter()) ?>">Twitter</a>
       <a href="<?= html($page->instagram()) ?>">Instagram</a>
-      <a href="<?= $page->file()->url() ?>" target="blank" class="download">Download CV</a>
+      <?php if ($pdf = $page->cv_pdf()->toFile()): ?>
+        <a href="<?= $page->cv_pdf()->toFile()->url() ?>" target="blank" class="download">Download CV</a>
+      <?php endif ?>
     </div>
   </div>
   <div class="cv-right">

@@ -1,0 +1,19 @@
+Title: slide 11
+
+----
+
+Slide-image:
+
+- 11_n.jpg
+
+----
+
+Slide-description: The Blue Mist – ink, acrylic, and oil on wood panel – 24" x 24".
+
+----
+
+Color: #6DA9C7
+
+----
+
+Files: 

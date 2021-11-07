@@ -1,0 +1,21 @@
+Title: ok4
+
+----
+
+Slide-image:
+
+- t293_hangamaamiri9.jpg
+
+----
+
+Slide-description: Installation view, Bazaar, A Recollection of Home, T293 Gallery (Rome, IT)
+
+----
+
+Color: #65B1A0
+
+----
+
+Files:
+
+- t293_hangamaamiri9.jpg

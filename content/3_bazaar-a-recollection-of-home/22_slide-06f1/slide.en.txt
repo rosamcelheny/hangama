@@ -1,0 +1,21 @@
+Title: slide-06f1
+
+----
+
+Slide-image:
+
+- ha-43.jpg
+
+----
+
+Slide-description: Sahar, Nail Salon and Eyelash Extensions #3 (detail). 2020 – chiffon, acrylic paint, and inkjet prints on silk – 122.5" x 85.5"
+
+----
+
+Color: #F2C8C8
+
+----
+
+Files:
+
+- ha-43.jpg

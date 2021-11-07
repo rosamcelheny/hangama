@@ -1,0 +1,21 @@
+Title: 9
+
+----
+
+Slide-image:
+
+- 04.jpg
+
+----
+
+Slide-description: Love with no Attachments. 2019 – chiffon, cotton, suede, silk, denim, mesh-screen textile, shoelace, hanging wires, bamboo cord, printed paper image, and found fabrics – 134" x 96"
+
+----
+
+Color: #ABD1BB
+
+----
+
+Files:
+
+- 04.jpg

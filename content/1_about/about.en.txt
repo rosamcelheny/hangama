@@ -22,9 +22,9 @@ Curriculum Vitae
 
 2015 Post-Graduate Fellow(PGF), Yale University School of Art & Sciences, New Haven, CT
 
-Solo Exhibitions
+**Solo Exhibitions**
 
-2020 Bazaar, A Recollection of Home, T291 Gallery, Rome, IT
+2020 Bazaar, A Recollection of Home, T293 Gallery, Rome, IT
 
 2018 Ocean’s Edge, Laurie Swim Gallery, Lunenburg, NS
 
@@ -210,7 +210,9 @@ Burger Collection
 
 ----
 
-Cv-pdf: 
+Cv-pdf:
+
+- hangamaamiri_cv-2.pdf
 
 ----
 

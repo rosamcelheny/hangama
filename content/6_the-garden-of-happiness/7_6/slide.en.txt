@@ -1,0 +1,21 @@
+Title: 6
+
+----
+
+Slide-image:
+
+- image.jpg
+
+----
+
+Slide-description: Zhvandun: Life. 2019 – chiffon, cotton, suede, silk, denim, mesh-screen textile, shoelace, hanging wires, bamboo cord, printed paper image, and found fabrics – 120" x 72"
+
+----
+
+Color: #6F5390
+
+----
+
+Files:
+
+- image.jpg

@@ -1,0 +1,19 @@
+Title: slide 15
+
+----
+
+Slide-image:
+
+- 15_n.jpg
+
+----
+
+Slide-description: Watching Sunset. 2017 – acrylic, and oil on wood panel – 10" x 8".
+
+----
+
+Color: #DD6868
+
+----
+
+Files: 

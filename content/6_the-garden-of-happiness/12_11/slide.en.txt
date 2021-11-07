@@ -1,0 +1,21 @@
+Title: 11
+
+----
+
+Slide-image:
+
+- 02.jpg
+
+----
+
+Slide-description: Untitled (detail). 2019 – chiffon, cotton, suede, silk, denim, mesh-screen textile, shoelace, hanging wires, bamboo cord, printed paper image, and found fabrics – 178" x 232"
+
+----
+
+Color: #B8A8BD
+
+----
+
+Files:
+
+- 02.jpg

@@ -1,0 +1,19 @@
+Title: slide 08
+
+----
+
+Slide-image:
+
+- 08_n.jpg
+
+----
+
+Slide-description: Girl with a Mirror. 2017 – acrylic and oil on wood panel – 10" x 8".
+
+----
+
+Color: #E85A2B
+
+----
+
+Files: 

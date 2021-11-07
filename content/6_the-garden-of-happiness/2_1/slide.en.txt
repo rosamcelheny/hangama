@@ -1,0 +1,21 @@
+Title: 1
+
+----
+
+Slide-image:
+
+- 1.png
+
+----
+
+Slide-description: Installation view. 2019 – gouache paint, brown paper, and Afghan embroidered fabric
+
+----
+
+Color: #F5F98D
+
+----
+
+Files:
+
+- 1.png

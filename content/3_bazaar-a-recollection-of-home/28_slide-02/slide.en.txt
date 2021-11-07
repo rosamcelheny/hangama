@@ -1,0 +1,19 @@
+Title: slide-02
+
+----
+
+Slide-image:
+
+- 2.jpg
+
+----
+
+Slide-description: Haji Saleh Zadah, Goldsmith. 2020 – cotton, chiffon, muslin, silk, velvet, table cloth, linen, wallpaper inkjet prints on paper, iridescent paper, marker, polyester, beads, plastic, acrylic paint, suede, and found fabric – 121" x 93"
+
+----
+
+Color: #9DE2F0
+
+----
+
+Files: 

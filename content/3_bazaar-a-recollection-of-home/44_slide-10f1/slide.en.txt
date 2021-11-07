@@ -1,0 +1,21 @@
+Title: slide-10f1
+
+----
+
+Slide-image:
+
+- ha-39.jpg
+
+----
+
+Slide-description: Vote (detail). 2020 – cotton, chiffon, muslin, silk, suede, and handmade Afghan embroidered fabric – 41" x 84"
+
+----
+
+Color: #EEBD37
+
+----
+
+Files:
+
+- ha-39.jpg

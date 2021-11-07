@@ -1,0 +1,21 @@
+Title: femme
+
+----
+
+Slide-image:
+
+- t293_hangamaamiri8.jpg
+
+----
+
+Slide-description: Installation view, Bazaar, A Recollection of Home, T293 Gallery (Rome, IT)
+
+----
+
+Color: #8C1D1D
+
+----
+
+Files:
+
+- t293_hangamaamiri8.jpg

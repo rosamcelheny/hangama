@@ -1,0 +1,19 @@
+Title: slide 13
+
+----
+
+Slide-image:
+
+- 13_n.jpg
+
+----
+
+Slide-description: Reflection #2 – ink, acrylic, and oil on wood panel – 24" x 24".
+
+----
+
+Color: #DCFDA1
+
+----
+
+Files: 

@@ -1,0 +1,21 @@
+Title: slide-01f3
+
+----
+
+Slide-image:
+
+- had-22.jpg
+
+----
+
+Slide-description: Bazaar (detail). 2020 – cotton, chiffon, muslin, silk, suede, digitally woven textile, camouflage fabric, sari textile, inkjet prints on paper and canvas, paper, plastic, acrylic paint, marker, polyester, table cloth, faux leather, and found fabric – 168" x 312"
+
+----
+
+Color: #448E79
+
+----
+
+Files:
+
+- had-22.jpg

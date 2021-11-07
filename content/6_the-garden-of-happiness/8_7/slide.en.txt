@@ -1,0 +1,21 @@
+Title: 7
+
+----
+
+Slide-image:
+
+- 02.jpg
+
+----
+
+Slide-description: When I Saw You. 2019 – chiffon, cotton, suede, silk, denim, mesh-screen textile, shoelace, hanging wires, bamboo cord, printed paper image, and found fabrics – 120" x 72"
+
+----
+
+Color: #F9F956
+
+----
+
+Files:
+
+- 02.jpg

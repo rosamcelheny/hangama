@@ -1,0 +1,19 @@
+Title: slide 03
+
+----
+
+Slide-image:
+
+- 03.jpg
+
+----
+
+Slide-description: Joy of Life. 2017 – acrylic and oil on wood panel – 8" x 10".
+
+----
+
+Color: #5A7ECA
+
+----
+
+Files: 

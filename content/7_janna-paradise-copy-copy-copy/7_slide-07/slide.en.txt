@@ -1,0 +1,19 @@
+Title: slide 07
+
+----
+
+Slide-image:
+
+- 07.jpg
+
+----
+
+Slide-description: Drive. 2017 – acrylic and oil on wood panel – 10" x 8".
+
+----
+
+Color: #25DB16
+
+----
+
+Files: 

@@ -1,0 +1,21 @@
+Title: slide 01
+
+----
+
+Slide-image:
+
+- image.jpg
+
+----
+
+Slide-description: Zhvandun: Life – chiffon, cotton, suede, silk, denim, mesh-screen textile, shoelace, hanging wires, bamboo cord, printed paper image, and found fabrics – 120" x 72"
+
+----
+
+Color: #804CB5
+
+----
+
+Files:
+
+- image.jpg

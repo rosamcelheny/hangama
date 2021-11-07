@@ -1,0 +1,21 @@
+Title: t293_3
+
+----
+
+Slide-image:
+
+- t293_hangamaamiri6.jpg
+
+----
+
+Slide-description: Installation view, Bazaar, A Recollection of Home, T293 Gallery (Rome, IT)
+
+----
+
+Color: #E2E8A9
+
+----
+
+Files:
+
+- t293_hangamaamiri6.jpg

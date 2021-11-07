@@ -1,0 +1,21 @@
+Title: slide-07f1
+
+----
+
+Slide-image:
+
+- ha-19.jpg
+
+----
+
+Slide-description: Madam, Mariam Beauty Salon (detail). 2020 – cotton, chiffon, muslin, silk, suede, shoelaces, camouflage fabric, inkjet prints on paper, marker, polyester, and found fabric – 111" x 87"
+
+----
+
+Color: #F05090
+
+----
+
+Files:
+
+- ha-19.jpg

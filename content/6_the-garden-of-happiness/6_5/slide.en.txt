@@ -1,0 +1,21 @@
+Title: 5
+
+----
+
+Slide-image:
+
+- 5.png
+
+----
+
+Slide-description: Jannah #2 (detail). 2019 – gouache paint, brown paper, and Afghan embroidered fabric – 14" x 9.5"
+
+----
+
+Color: #DCBE68
+
+----
+
+Files:
+
+- 5.png

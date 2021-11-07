@@ -1,0 +1,21 @@
+Title: slide-08f02
+
+----
+
+Slide-image:
+
+- ha-28.jpg
+
+----
+
+Slide-description: Khatool Muhammadzai, The Victory is Ours (detail). 2020 – cotton, chiffon, muslin, polyester, velvet, silk, suede, camouflage fabric, gouache, and marker – 84" x 64"
+
+----
+
+Color: #C33939
+
+----
+
+Files:
+
+- ha-28.jpg

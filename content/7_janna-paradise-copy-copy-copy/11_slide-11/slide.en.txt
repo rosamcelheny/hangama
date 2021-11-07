@@ -1,0 +1,19 @@
+Title: slide 11
+
+----
+
+Slide-image:
+
+- 11_2.jpg
+
+----
+
+Slide-description: The Heels. 2017 – acrylic and oil on wood panel – 10" x 8".
+
+----
+
+Color: #DE3B3B
+
+----
+
+Files: 

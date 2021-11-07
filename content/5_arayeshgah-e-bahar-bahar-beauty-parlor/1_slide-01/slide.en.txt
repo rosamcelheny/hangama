@@ -1,0 +1,19 @@
+Title: slide 01
+
+----
+
+Slide-image:
+
+- 01.jpg
+
+----
+
+Slide-description: Arayeshgah-e Bahar (Bahar, Beauty Parlor). 2019 – chiffon, cotton, suede, silk, denim, mesh-screen textile, shoelace, hanging wires, bamboo cord, printed paper image, and found fabrics – 117" x 288"
+
+----
+
+Color: #4E7394
+
+----
+
+Files: 

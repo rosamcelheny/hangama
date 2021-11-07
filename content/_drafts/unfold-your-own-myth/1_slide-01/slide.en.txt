@@ -1,0 +1,19 @@
+Title: slide 01
+
+----
+
+Slide-image:
+
+- 1_n.png
+
+----
+
+Slide-description: Untitled – chiffon, cotton, suede, silk, denim, mesh-screen textile, shoelace, hanging wires, bamboo cord, printed paper image, and found fabrics – 178" x 232"
+
+----
+
+Color: #E1C82B
+
+----
+
+Files: 

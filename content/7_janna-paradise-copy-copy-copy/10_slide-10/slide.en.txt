@@ -1,0 +1,19 @@
+Title: slide 10
+
+----
+
+Slide-image:
+
+- 10.jpg
+
+----
+
+Slide-description: Going to the Salon. 2017 – acrylic, and oil on wood panel – 10" x 8".
+
+----
+
+Color: #3A91DA
+
+----
+
+Files: 

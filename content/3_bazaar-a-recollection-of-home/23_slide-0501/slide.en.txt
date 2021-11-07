@@ -1,0 +1,21 @@
+Title: slide-0501
+
+----
+
+Slide-image:
+
+- ha-36.jpg
+
+----
+
+Slide-description: Sahar, Nail Salon #2 (detail). 2020 – cotton, muslin, suede, and silk – 31" x 92"
+
+----
+
+Color: #CD2A2A
+
+----
+
+Files:
+
+- ha-36.jpg

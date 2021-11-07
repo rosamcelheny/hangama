@@ -1,0 +1,21 @@
+Title: nail
+
+----
+
+Slide-image:
+
+- t293_hangamaamiri3.jpg
+
+----
+
+Slide-description: Installation view, Bazaar, A Recollection of Home, T293 Gallery (Rome, IT)
+
+----
+
+Color: #A36666
+
+----
+
+Files:
+
+- t293_hangamaamiri3.jpg

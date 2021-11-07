@@ -1,0 +1,21 @@
+Title: t293_rose
+
+----
+
+Slide-image:
+
+- t293_hangamaamiri27.jpg
+
+----
+
+Slide-description: (T293 Installation View) 2020 – neon.
+
+----
+
+Color: #0017FF
+
+----
+
+Files:
+
+- t293_hangamaamiri27.jpg

@@ -1,0 +1,19 @@
+Title: slide 08
+
+----
+
+Slide-image:
+
+- 05.jpg
+
+----
+
+Slide-description: Amidst the Mountains – ink, acrylic, and oil on wood panel – 24" x 24".
+
+----
+
+Color: #99D2EE
+
+----
+
+Files: 

@@ -1,0 +1,21 @@
+Title: slide-04f1
+
+----
+
+Slide-image:
+
+- ha-5.jpg
+
+----
+
+Slide-description: Sahar, Nail Salon #1 (detail). 2020 – cotton, chiffon, muslin, silk, suede, paper, clear plastic, inkjet prints on paper, marker, polyester, and found fabric – 111" x 152.5"
+
+----
+
+Color: #B6E2E0
+
+----
+
+Files:
+
+- ha-5.jpg

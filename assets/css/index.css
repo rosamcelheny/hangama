@@ -68,7 +68,6 @@ a:active {
   display:none;
   width: 55vw;
 }
-
 .About .project-list {
   background-color:white;
   height: 100vh;
@@ -121,7 +120,6 @@ a:active {
   margin-bottom:1em;
 }
 .thumbnails {
-  /*margin-top: 5em;*/
   margin-left: 1em;
   margin-bottom: 1em;
 }
@@ -147,6 +145,12 @@ a:active {
 }
 .asyncImage {
   filter: blur(20px);
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
   transition-timing-function: ease-in-out;
 }
 .slide__image {
@@ -156,6 +160,7 @@ a:active {
   align-items: center;
   flex-direction: column;
   position: relative;
+  overflow:hidden;
 }
 .slide__image img {
   object-fit: contain;

@@ -1,0 +1,19 @@
+Title: slide 04
+
+----
+
+Slide-image:
+
+- 04.jpg
+
+----
+
+Slide-description: Ice-Cream. 2017 – acrylic and oil on wood panel – 10" x 8".
+
+----
+
+Color: #6DCFFF
+
+----
+
+Files: 
