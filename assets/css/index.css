@@ -58,6 +58,15 @@ a:active {
   padding-top: 1em;
   z-index:105;
 }
+.work-label, .about h1, .menu_item.home h1, .project-list h1, .project-link h2, .slide-title h1 {
+  font-size: 1em;
+  margin: 0px;
+  font-weight: normal;
+}
+.slide-title h1 {
+  display: inline;
+  font-weight: normal;
+}
 .About .menu_item.work {
   background-color: white;
 }

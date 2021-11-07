@@ -1,4 +1,4 @@
   <a href="<?= $pages->find('about')->url() ?>" class="menu_item about">
-    <div>About</div>
+    <h1>About</h1>
   </a>
 </nav>

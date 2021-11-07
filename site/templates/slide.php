@@ -1,10 +1,10 @@
 <?php snippet('header') ?>
 <nav class='header'>
   <a href="<?= $site->url() ?>" class="menu_item home">
-    <div><?= $site->title(); ?></div>
+    <h1><?= $site->title(); ?></h1>
   </a>
   <div class="menu_item work">
-    <div class="work-label">Work</div>
+    <h1 class="work-label">Work</h1>
     <div class="project-list">
       <?php
         $projects = $pages->template("project");
@@ -12,8 +12,10 @@
       ?>
         <div class="project--title">
           <a href="<?= $project->children()->first()->url() ?>" data-color="<?= $project->color() ?>" class="project-link">
-            <?= html($project->year()) ?>
-            <?= html($project->title()) ?>
+            <h2>
+              <?= html($project->year()) ?>
+              <?= html($project->title()) ?>
+            </h2>
           </a>
         </div>
       <?php endforeach ?>
@@ -30,11 +32,13 @@
     </a>
     </span>
     <a href="<?= $page->parent()->url() ?>" >
-      <?= $page->parent()->title() ?>
+      <h1>
+        <?= $page->parent()->title() ?>
+      </h1>
     </a>
   </div>
   <a href="<?= $pages->find('about')->url() ?>" class="menu_item about">
-    <div>About</div>
+    <h1>About</h1>
   </a>
 </nav>
 
