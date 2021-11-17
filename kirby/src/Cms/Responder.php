@@ -166,7 +166,7 @@ class Responder
 
         return $this
             ->header('Location', (string)$location)
-            ->code($code ?? 302);
+            ->code($code ?? 301);
     }
 
     /**
